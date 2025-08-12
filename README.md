@@ -64,9 +64,9 @@ jupyter lab  # or jupyter notebook
 
 ## 📁 Data expectations (example)
 
-- `data/macros.csv`: monthly/quarterly macro indicators with columns like:
+- `data/file_name.xlxs`: monthly/quarterly macro indicators with columns like:
   - `date, gdp_growth, unemployment_rate, policy_rate, cpi_inflation, credit_spread`
-- `data/historical_pd.csv`: historical PDs (by portfolio/segment/vintage) with columns like:
+- `data/historical_pd.xlsx`: historical PDs (by portfolio/segment/vintage) with columns like:
   - `date, segment, pd_obs`
 
 You can join and align these on `date` (taking care of frequency alignment and lags).
