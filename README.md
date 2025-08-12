@@ -18,7 +18,7 @@ It demonstrates how to integrate **macroeconomic scenarios** (GDP growth, unempl
 - **Stat/ML models** (e.g., logistic regression / gradient boosting / GAM—choose your flavor).
 - **Scenario engine** to run **baseline / adverse / optimistic** cases and sensitivity sweeps.
 - **Streamlit app** for interactive exploration and visualization.
-- **Reproducible notebook**: `main_nexialog.ipynb` (provided).
+- **Reproducible notebook**: `main.ipynb` (provided).
 
 ---
 
