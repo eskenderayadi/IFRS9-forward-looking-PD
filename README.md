@@ -27,13 +27,14 @@ It demonstrates how to integrate **macroeconomic scenarios** (GDP growth, unempl
 ```
 .
 ├─ streamlit_app.py          # Interactive app (forward-looking PD scenarios)
-├─ main_nexialog.ipynb       # Research notebook (feature eng., modeling, evaluation)
+├─ main.ipynb                # Research notebook (feature eng., modeling, evaluation)
 ├─ requirements.txt
 ├─ README.md
 ├─ LICENSE
 ├─ .gitignore
 ├─ MODEL_CARD.md             # Detailed model documentation
-└─ data/                     # (optional) put your CSVs here (macros, defaults, cohorts, etc.)
+├─ streamlit data/
+└─ notebook data/                    
 ```
 
 > You’ve already provided `main_nexialog.ipynb`. Keep it at repo root or in `notebooks/` and adjust paths accordingly.
