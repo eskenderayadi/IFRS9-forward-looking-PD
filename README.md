@@ -9,7 +9,7 @@ It demonstrates how to integrate **macroeconomic scenarios** (GDP growth, unempl
 
 > Used Models : OLS, Bêta, and Decision Tree.
 
-> Best Model : Decision Tree with an **R^2 of 0.943**.
+> Best Model : Decision Tree with an **Adjusted R² : 0.943** (on train data).
 
 ---
 
